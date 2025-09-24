@@ -1,5 +1,5 @@
 # LeetCode 9 - Palindrome Number
-# Author: Your Name - Student ID
+# Author: wilson muriithi
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
